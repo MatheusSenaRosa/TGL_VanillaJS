@@ -1,0 +1,1 @@
+export { getGamesData } from "./getGamesData";
